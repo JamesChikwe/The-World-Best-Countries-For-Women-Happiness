@@ -39,6 +39,9 @@ EDA involved exploring the dataset to answer key questions, such as;
 
 ## Results or Findings
 
+![Women's Happiness_page-0001](https://github.com/JamesChikwe/The-World-Best-Countries-For-Women-Happiness/assets/153011574/d0b86f6d-7504-4753-a6d4-67c17465d283)
+
+
 The Netherlands ranked first in the world for women's happiness in 2021 due to factors such as:
 #### 1. Gender Equality Policies
 The Netherlands is known for its progressive policies promoting gender equality in areas such as education, employment, and political participation, which can contribute to overall happiness among women.
