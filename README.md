@@ -72,37 +72,39 @@ High maternal mortality rates, inadequate health care facilities, and lack of ac
 ## Recommendations
 Recommended analysis to improve women's happiness in the worst countries:
 
- - Conflict Resolution and Peace Building
+ - **Conflict Resolution and Peace Building**
     - Facilitate peace talks and reconciliation efforts to address underlying conflicts and promote stability.
     - Ensure the participation of women in peace building process and decision making.
 
- - Economic Empowerment
+ - **Economic Empowerment**
     - Provide access to education and vocational training programs to enhance women's skills and  employability.
     - Support women entrepreneurs through microfinance initiatives and business development opportunities.
     - Implement policies to promote equal pay and eliminate gender-based discrimination in the workforce.
 
- - Gender Equality and Women's Rights
+ - **Gender Equality and Women's Rights**
     - Enforce laws and policies that protect women's right and promote gender equality in all spheres of society.
     - Raise awareness about women's right and provide legal support services to ensure access to justice for victims of gender-based violenice and discrimination..
   
-  - Healthcare and Social Services
+  - **Healthcare and Social Services**
      - Improve access to healthcare services, including maternal healthcare, family planning, and reproductive health services.
      - Strengthen healthcare infrastructure and facilities in rural and undeserved areas.
      - Provide psychosocial support and counselling services for women affected by conflict and violence.
    
-  - Education and Empowerment
+  - **Education and Empowerment**
      - Invest in girls' education and promote gender-sensitive curriculum and teaching practices.
      - Create safe and supportive learning environment that encourage girls' participation and retention in school.
      - Offer life skills training and leadership development programs to empower women and girls to make informed decisions and advocate for their rights.
 
-  - Community Engagement and Support
+  - **Community Engagement and Support**
     - Foster community dialogue and engagement to challenge harmful gender norms and stereotypes.
     - Promote the involvement of men and boys as allies in promoting gender equality and ending violence against women.
     - Establish support networks and community babsed organizations to provide social support and solidarity for women facing adversity.
 
   ## Conclusion
 
-  Empwering women isn't just the right thing to do - it's the smart thing to do. When women succeed, nations prosper.
-  Let's work together to create a world where every woman has the opportunity to thrive and find happiness.
+  *Empwering women isn't just the right thing to do - it's the smart thing to do. When women succeed, nations prosper.
+  Let's work together to create a world where every woman has the opportunity to thrive and find happiness.*
+
+ 
      
 
